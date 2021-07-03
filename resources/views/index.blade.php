@@ -75,10 +75,10 @@
                 </div>
 
                 <div
-                    class="skills-content row row-cols-lg-4 row-cols-sm-1 row-cols-md-2 d-flex flex-column align-items-center justify-content-center flex-lg-row">
+                    class="skills-content row row-cols-lg-4 row-cols-sm-2 row-cols-md-2 d-flex flex-column align-items-center justify-content-center flex-lg-row">
 
                     <div
-                        class="col-lg-3 col-md-6 mt-5 mt-lg-0 d-flex flex-column justify-content-center align-items-center ">
+                        class="col-lg-3 col-md-6 col-6 mt-5 mt-lg-0 d-flex flex-column justify-content-center align-items-center ">
                         <div class="rounded-circle d-flex justify-content-center align-items-center newSkills"
                              style="width: 100px ; height: 100px; cursor: pointer ; border: 2px solid #0563bb ">
                             <img src="iPortfolio/assets/img/skills/laravel.svg" class="img-fluid w-50 h-50" alt="">
@@ -89,7 +89,7 @@
                     </div>
 
                     <div
-                        class="col-lg-3 col-md-6 mt-5 mt-lg-0 d-flex flex-column justify-content-center align-items-center ">
+                        class="col-lg-3 col-md-6 col-6 mt-5 mt-lg-0 d-flex flex-column justify-content-center align-items-center ">
                         <div class="rounded-circle d-flex justify-content-center align-items-center newSkills"
                              style="width: 100px ; height: 100px; cursor: pointer ; border: 2px solid #0563bb ">
                             <img src="iPortfolio/assets/img/skills/lumen.svg" class="img-fluid w-75 h-75" alt="">
@@ -101,7 +101,7 @@
 
 
                     <div
-                        class="col-lg-3 col-md-6 mt-5 mt-lg-0 d-flex flex-column justify-content-center align-items-center ">
+                        class="col-lg-3 col-md-6 mt-5 col-6 mt-lg-0 d-flex flex-column justify-content-center align-items-center ">
                         <div class="rounded-circle d-flex justify-content-center align-items-center newSkills"
                              style="width: 100px ; height: 100px; cursor: pointer ; border: 2px solid #0563bb ">
                             <img src="iPortfolio/assets/img/skills/dart.svg" class="img-fluid w-50 h-50" alt="">
@@ -112,7 +112,7 @@
                     </div>
 
                     <div
-                        class="col-lg-3 col-md-6 mt-5 mt-lg-0 d-flex flex-column justify-content-center align-items-center ">
+                        class="col-lg-3 col-md-6 mt-5 col-6 mt-lg-0 d-flex flex-column justify-content-center align-items-center ">
                         <div class="rounded-circle d-flex justify-content-center align-items-center newSkills"
                              style="width: 100px ; height: 100px; cursor: pointer ; border: 2px solid #0563bb ">
                             <img src="iPortfolio/assets/img/skills/flutter.svg  " class="img-fluid w-70 h-75" alt="">
@@ -121,8 +121,6 @@
                             Flutter
                         </div>
                     </div>
-
-
                 </div>
                 <div
                     class="row mt-lg-4 row-cols-lg-4 row-cols-sm-1 row-cols-md-2 d-flex flex-column align-items-center justify-content-center flex-lg-row">
@@ -288,75 +286,98 @@
 
                     <div class="row">
                         <div class="col-lg-6" data-aos="fade-up">
-                            <h3 class="resume-title">Sumary</h3>
-                            <div class="resume-item pb-0">
-                                <h4>Alex Smith</h4>
-                                <p><em>Innovative and deadline-driven Graphic Designer with 3+ years of experience
-                                        designing
-                                        and developing user-centered digital/print marketing material from initial
-                                        concept
-                                        to final, polished deliverable.</em></p>
-                                <ul>
-                                    <li>Portland par 127,Orlando, FL</li>
-                                    <li>(123) 456-7891</li>
-                                    <li>alice.barkley@example.com</li>
-                                </ul>
-                            </div>
+{{--                            <h3 class="resume-title">Sumary</h3>--}}
+{{--                            <div class="resume-item pb-0">--}}
+{{--                                <h4>Mahmoud Al-Trify</h4>--}}
+{{--                                <p><em>Innovative and deadline-driven software engineer with 1+ years of experience,--}}
+{{--                                        and developing products from initial--}}
+{{--                                        concept--}}
+{{--                                        to final, polished deliverable.</em></p>--}}
+{{--                                <ul>--}}
+{{--                                    <li>Amman, Jordan</li>--}}
+{{--                                    <li>(+962) 79 048 7428</li>--}}
+{{--                                    <li>mahmoud.altrify@gmail.com</li>--}}
+{{--                                </ul>--}}
+{{--                            </div>--}}
 
                             <h3 class="resume-title">Education</h3>
                             <div class="resume-item">
-                                <h4>Master of Fine Arts &amp; Graphic Design</h4>
-                                <h5>2015 - 2016</h5>
-                                <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-                                <p>Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea
-                                    vero
-                                    voluptatum qui ut dignissimos deleniti nerada porti sand markend</p>
+                                <h4>Ahmad Bin Toqan High school</h4>
+                                <h5>2015 - 2017</h5>
+                                <p><em>Al-Nuzha, Amman, Jordan</em></p>
+                                {{--                                <p>Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea--}}
+                                {{--                                    vero--}}
+                                {{--                                    voluptatum qui ut dignissimos deleniti nerada porti sand markend</p>--}}
                             </div>
                             <div class="resume-item">
-                                <h4>Bachelor of Fine Arts &amp; Graphic Design</h4>
-                                <h5>2010 - 2014</h5>
-                                <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-                                <p>Quia nobis sequi est occaecati aut. Repudiandae et iusto quae reiciendis et quis Eius
-                                    vel
-                                    ratione eius unde vitae rerum voluptates asperiores voluptatem Earum molestiae
-                                    consequatur neque etlon sader mart dila</p>
+                                <h4>Bachelor degree from University of Jordan, Computer information system</h4>
+                                <h5>2017 - 2021</h5>
+                                <p><em>King Abdullah II School of Information Technology, Jordan</em></p>
+                            </div>
+                            <h3 class="resume-title">Certificates</h3>
+                            <div class="resume-item">
+                                <h4>CCNA Routing & Switching</h4>
+                                <h5>06-2019</h5>
+                                <p><em>Amman, Jordan</em></p>
+                                <p>Cisco Certified Network Associate CCNA, Routing and Switching is a certification program for entry-level network engineers that
+                                    helps maximize your investment in foundational networking knowledge and increase the value of your employer's network.</p>
+                            </div>
+                            <div class="resume-item">
+                                <h4>Digital Foransics</h4>
+                                <h5>03-2020</h5>
+                                <p><em>Amman, Jordan</em></p>
+                                <p>Erasmus+ project for the Foransics computing.</p>
+                            </div>
+                            <div class="resume-item">
+                                <h4>Learn Ethical Hacking From
+                                    Scratch</h4>
+                                <h5>11-2020</h5>
+                                <p><em>ONLINE</em></p>
+                                <p>Udemy course to increase the learning curve in security field.</p>
                             </div>
                         </div>
                         <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
                             <h3 class="resume-title">Professional Experience</h3>
                             <div class="resume-item">
-                                <h4>Senior graphic design specialist</h4>
-                                <h5>2019 - Present</h5>
-                                <p><em>Experion, New York, NY </em></p>
+                                <h4>Web Developer</h4>
+                                <h5>2018 - 2020</h5>
+                                <p>
+                                    <em><strong>Freelancer.com</strong></em>
+                                </p>
                                 <ul>
-                                    <li>Lead in the design, development, and implementation of the graphic, layout, and
-                                        production communication materials
-                                    </li>
-                                    <li>Delegate tasks to the 7 members of the design team and provide counsel on all
-                                        aspects of the project.
-                                    </li>
-                                    <li>Supervise the assessment of all graphic materials in order to ensure quality and
-                                        accuracy of the design
-                                    </li>
-                                    <li>Oversee the efficient use of production project budgets ranging from $2,000 -
-                                        $25,000
+                                    <li>Web developer to build efficient and responsive websites.</li>
+                                </ul>
+                            </div>
+                            <div class="resume-item">
+                                <h4>Vice President for the IEEE CS branch</h4>
+                                <h5>2019 - 2020</h5>
+                                <p><em><strong>Institute of Electrical and Electronics Engineers 'IEEE'</strong></em></p>
+                                <ul>
+                                    <li>Vice president at IEEE Computer society branch at University of Jordan KASIT faculty.
                                     </li>
                                 </ul>
                             </div>
                             <div class="resume-item">
-                                <h4>Graphic design specialist</h4>
-                                <h5>2017 - 2018</h5>
-                                <p><em>Stepping Stone Advertising, New York, NY</em></p>
+                                <h4>Full Stack Developer</h4>
+                                <h5>06/2020-present</h5>
+                                <p><em><strong>Digital Analytica Inc.</strong></em></p>
                                 <ul>
-                                    <li>Developed numerous marketing programs (logos, brochures,infographics,
-                                        presentations,
-                                        and advertisements).
+                                    <li>
+                                        Digital Analytica (D.A) is a corporation that specializes in providing digital
+                                        software solutions. <strong>Digital Analytica is headquartered in Las Vegas, NV,</strong> with an international
+                                        branch in the middle of the financial center in Amman – Jordan.
                                     </li>
-                                    <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
-                                    <li>Recommended and consulted with clients on the most appropriate graphic design
-                                    </li>
-                                    <li>Created 4+ design presentations and proposals a month for clients and account
-                                        managers
+                                </ul>
+                            </div>
+                            <div class="resume-item">
+                                <h4>Team Leader of Software Development Team</h4>
+                                <h5>03/2021-present</h5>
+                                <p><em><strong>Digital Analytica Inc.</strong></em></p>
+                                <ul>
+                                    <li>
+                                        Digital Analytica (D.A) is a corporation that specializes in providing digital
+                                        software solutions. <strong>Digital Analytica is headquartered in Las Vegas, NV,</strong> with an international
+                                        branch in the middle of the financial center in Amman – Jordan.
                                     </li>
                                 </ul>
                             </div>

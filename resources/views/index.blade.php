@@ -75,10 +75,10 @@
                 </div>
 
                 <div
-                    class="skills-content row row-cols-lg-4 row-cols-sm-2 row-cols-md-2 d-flex flex-column align-items-center justify-content-center flex-lg-row">
+                    class="row">
 
                     <div
-                        class="col-lg-3 col-md-6 col-6 mt-5 mt-lg-0 d-flex flex-column justify-content-center align-items-center ">
+                        class="col-lg-3 col-md-6 col-6 mt-5 mt-lg-0 d-flex flex-column justify-content-center align-items-center mb-sm-0 mb-lg-4">
                         <div class="rounded-circle d-flex justify-content-center align-items-center newSkills"
                              style="width: 100px ; height: 100px; cursor: pointer ; border: 2px solid #0563bb ">
                             <img src="iPortfolio/assets/img/skills/laravel.svg" class="img-fluid w-50 h-50" alt="">
@@ -89,19 +89,19 @@
                     </div>
 
                     <div
-                        class="col-lg-3 col-md-6 col-6 mt-5 mt-lg-0 d-flex flex-column justify-content-center align-items-center ">
+                        class="col-lg-3 col-md-6 col-6 mt-5 mt-lg-0 d-flex flex-column justify-content-center align-items-center mb-sm-0 mb-lg-4">
                         <div class="rounded-circle d-flex justify-content-center align-items-center newSkills"
                              style="width: 100px ; height: 100px; cursor: pointer ; border: 2px solid #0563bb ">
                             <img src="iPortfolio/assets/img/skills/lumen.svg" class="img-fluid w-75 h-75" alt="">
                         </div>
-                        <div class="mt-1">
-                            Web services using Laraval Lumen
+                        <div class="mt-1 text-center">
+                            microservices
                         </div>
                     </div>
 
 
                     <div
-                        class="col-lg-3 col-md-6 mt-5 col-6 mt-lg-0 d-flex flex-column justify-content-center align-items-center ">
+                        class="col-lg-3 col-md-6 mt-5 col-6 mt-lg-0 d-flex flex-column justify-content-center align-items-center mb-sm-0 mb-lg-4">
                         <div class="rounded-circle d-flex justify-content-center align-items-center newSkills"
                              style="width: 100px ; height: 100px; cursor: pointer ; border: 2px solid #0563bb ">
                             <img src="iPortfolio/assets/img/skills/dart.svg" class="img-fluid w-50 h-50" alt="">
@@ -112,7 +112,7 @@
                     </div>
 
                     <div
-                        class="col-lg-3 col-md-6 mt-5 col-6 mt-lg-0 d-flex flex-column justify-content-center align-items-center ">
+                        class="col-lg-3 col-md-6 mt-5 col-6 mt-lg-0 d-flex flex-column justify-content-center align-items-center mb-sm-0 mb-lg-4">
                         <div class="rounded-circle d-flex justify-content-center align-items-center newSkills"
                              style="width: 100px ; height: 100px; cursor: pointer ; border: 2px solid #0563bb ">
                             <img src="iPortfolio/assets/img/skills/flutter.svg  " class="img-fluid w-70 h-75" alt="">
@@ -121,12 +121,8 @@
                             Flutter
                         </div>
                     </div>
-                </div>
-                <div
-                    class="row mt-lg-4 row-cols-lg-4 row-cols-sm-1 row-cols-md-2 d-flex flex-column align-items-center justify-content-center flex-lg-row">
-
                     <div
-                        class="col-lg-3 col-md-6 mt-5 mt-lg-0 d-flex flex-column justify-content-center align-items-center ">
+                        class="col-lg-3 col-md-6 mt-5 col-6 mt-lg-0 d-flex flex-column justify-content-center align-items-center mb-sm-0 mb-lg-4">
                         <div class="rounded-circle d-flex justify-content-center align-items-center newSkills"
                              style="width: 100px ; height: 100px; cursor: pointer ; border: 2px solid #0563bb ">
                             <img src="iPortfolio/assets/img/skills/devops.svg" class="img-fluid w-75 h-75" alt="">
@@ -137,7 +133,7 @@
                     </div>
 
                     <div
-                        class="col-lg-3 col-md-6 mt-5 mt-lg-0 d-flex flex-column justify-content-center align-items-center ">
+                        class="col-lg-3 col-md-6 mt-5 col-6 mt-lg-0 d-flex flex-column justify-content-center align-items-center mb-sm-0 mb-lg-4">
                         <div class="rounded-circle d-flex justify-content-center align-items-center newSkills"
                              style="width: 100px ; height: 100px; cursor: pointer ; border: 2px solid #0563bb ">
                             <img src="iPortfolio/assets/img/skills/forge.png" class="img-fluid w-75 h-75" alt="">
@@ -148,7 +144,7 @@
                     </div>
 
                     <div
-                        class="col-lg-3 col-md-6 mt-5 mt-lg-0 d-flex flex-column justify-content-center align-items-center ">
+                        class="col-lg-3 col-md-6 mt-5 col-6 mt-lg-0 d-flex flex-column justify-content-center align-items-center mb-sm-0 mb-lg-4">
                         <div class="rounded-circle d-flex justify-content-center align-items-center newSkills"
                              style="width: 100px ; height: 100px; cursor: pointer ; border: 2px solid #0563bb ">
                             <img src="iPortfolio/assets/img/skills/mysql.svg  " class="img-fluid w-75 h-75" alt="">
@@ -159,7 +155,7 @@
                     </div>
 
                     <div
-                        class="col-lg-3 col-md-6 mt-5 mt-lg-0 d-flex flex-column justify-content-center align-items-center ">
+                        class="col-lg-3 col-md-6 mt-5 col-6 mt-lg-0 d-flex flex-column justify-content-center align-items-center mb-sm-0 mb-lg-4">
                         <div class="rounded-circle d-flex justify-content-center align-items-center newSkills"
                              style="width: 100px ; height: 100px; cursor: pointer ; border: 2px solid #0563bb ">
                             <img src="iPortfolio/assets/img/skills/api-2.png  " class="img-fluid w-50 h-50" alt="">
@@ -169,13 +165,8 @@
                         </div>
                     </div>
 
-
-                </div>
-                <div
-                    class="row mt-lg-4 row-cols-lg-4 row-cols-sm-1 row-cols-md-2 d-flex flex-column align-items-center justify-content-center flex-lg-row">
-
                     <div
-                        class="col-lg-3 col-md-6 mt-5 mt-lg-0 d-flex flex-column justify-content-center align-items-center ">
+                        class="col-lg-3 col-md-6 mt-5 col-6 mt-lg-0 d-flex flex-column justify-content-center align-items-center mb-sm-0 mb-lg-4">
                         <div class="rounded-circle d-flex justify-content-center align-items-center newSkills"
                              style="width: 100px ; height: 100px; cursor: pointer ; border: 2px solid #0563bb ">
                             <img src="iPortfolio/assets/img/skills/github.svg  " class="img-fluid w-75 h-75" alt="">
@@ -185,9 +176,8 @@
                         </div>
                     </div>
 
-
                     <div
-                        class="col-lg-3 col-md-6 mt-5 mt-lg-0 d-flex flex-column justify-content-center align-items-center ">
+                        class="col-lg-3 col-md-6 mt-5 col-6 mt-lg-0 d-flex flex-column justify-content-center align-items-center mb-sm-0 mb-lg-4">
                         <div class="rounded-circle d-flex justify-content-center align-items-center newSkills"
                              style="width: 100px ; height: 100px; cursor: pointer ; border: 2px solid #0563bb ">
                             <img src="iPortfolio/assets/img/skills/java.svg  " class="img-fluid w-75 h-75" alt="">
@@ -198,7 +188,7 @@
                     </div>
 
                     <div
-                        class="col-lg-3 col-md-6 mt-5 mt-lg-0 d-flex flex-column justify-content-center align-items-center ">
+                        class="col-lg-3 col-md-6 mt-5 col-6 mt-lg-0 d-flex flex-column justify-content-center align-items-center mb-sm-0 mb-lg-4">
                         <div class="rounded-circle d-flex justify-content-center align-items-center newSkills"
                              style="width: 100px ; height: 100px; cursor: pointer ; border: 2px solid #0563bb ">
                             <img src="iPortfolio/assets/img/skills/bootstrap.svg  " class="img-fluid w-75 h-75" alt="">
@@ -207,8 +197,9 @@
                             BootStrap
                         </div>
                     </div>
+
                     <div
-                        class="col-lg-3 col-md-6 mt-5 mt-lg-0 d-flex flex-column justify-content-center align-items-center ">
+                        class="col-lg-3 col-md-6 mt-5 col-6 mt-lg-0 d-flex flex-column justify-content-center align-items-center mb-sm-0 mb-lg-4">
                         <div class="rounded-circle d-flex justify-content-center align-items-center newSkills"
                              style="width: 100px ; height: 100px; cursor: pointer ; border: 2px solid #0563bb ">
                             <img src="iPortfolio/assets/img/skills/npm.svg  " class="img-fluid w-75 h-75" alt="">
@@ -218,11 +209,8 @@
                         </div>
                     </div>
 
-                </div>
-                <div
-                    class="row mt-lg-4 row-cols-lg-4 row-cols-sm-1 row-cols-md-2 d-flex flex-column align-items-center justify-content-lg-start  justify-content-center flex-lg-row">
                     <div
-                        class="col-lg-3 col-md-6 mt-5 mt-lg-0 d-flex flex-column justify-content-center align-items-center ">
+                        class="col-lg-3 col-md-6 mt-5 col-6 mt-lg-0 d-flex flex-column justify-content-center align-items-center mb-sm-0 mb-lg-4">
                         <div class="rounded-circle d-flex justify-content-center align-items-center newSkills"
                              style="width: 100px ; height: 100px; cursor: pointer ; border: 2px solid #0563bb ">
                             <img src="iPortfolio/assets/img/skills/sass-1.svg  " class="img-fluid w-75 h-75" alt="">
@@ -232,9 +220,8 @@
                         </div>
                     </div>
 
-
                     <div
-                        class="col-lg-3 col-md-6 mt-5 mt-lg-0 d-flex flex-column justify-content-center align-items-center ">
+                        class="col-lg-3 col-md-6 mt-5 col-6 mt-lg-0 d-flex flex-column justify-content-center align-items-center  mb-sm-0 mb-lg-4">
                         <div class="rounded-circle d-flex justify-content-center align-items-center newSkills"
                              style="width: 100px ; height: 100px; cursor: pointer ; border: 2px solid #0563bb ">
                             <img src="iPortfolio/assets/img/skills/livewire.png" class="img-fluid w-75 h-75"
@@ -246,7 +233,7 @@
                     </div>
 
                     <div
-                        class="col-lg-3 col-md-6 mt-5 mt-lg-0 d-flex flex-column justify-content-center align-items-center ">
+                        class="col-lg-3 col-md-6 mt-5 col-6 mt-lg-0 d-flex flex-column justify-content-center align-items-center mb-sm-0 mb-lg-4">
                         <div class="rounded-circle d-flex justify-content-center align-items-center newSkills"
                              style="width: 100px ; height: 100px; cursor: pointer ; border: 2px solid #0563bb ">
                             <img src="iPortfolio/assets/img/skills/cisco.svg  " class="img-fluid w-50 h-50"
@@ -258,7 +245,7 @@
                     </div>
 
                     <div
-                        class="col-lg-3 col-md-6 mt-5 mt-lg-0 d-flex flex-column justify-content-center align-items-center ">
+                        class="col-lg-3 col-md-6 mt-5 col-6 mt-lg-0 d-flex flex-column justify-content-center align-items-center mb-sm-0 mb-lg-4">
                         <div class="rounded-circle d-flex justify-content-center align-items-center newSkills"
                              style="width: 100px ; height: 100px; cursor: pointer ; border: 2px solid #0563bb ">
                             <img src="iPortfolio/assets/img/skills/linux-svg.svg  " class="img-fluid w-50 h-50"
@@ -268,7 +255,6 @@
                             Linux
                         </div>
                     </div>
-
 
                 </div>
 
@@ -286,19 +272,19 @@
 
                     <div class="row">
                         <div class="col-lg-6" data-aos="fade-up">
-{{--                            <h3 class="resume-title">Sumary</h3>--}}
-{{--                            <div class="resume-item pb-0">--}}
-{{--                                <h4>Mahmoud Al-Trify</h4>--}}
-{{--                                <p><em>Innovative and deadline-driven software engineer with 1+ years of experience,--}}
-{{--                                        and developing products from initial--}}
-{{--                                        concept--}}
-{{--                                        to final, polished deliverable.</em></p>--}}
-{{--                                <ul>--}}
-{{--                                    <li>Amman, Jordan</li>--}}
-{{--                                    <li>(+962) 79 048 7428</li>--}}
-{{--                                    <li>mahmoud.altrify@gmail.com</li>--}}
-{{--                                </ul>--}}
-{{--                            </div>--}}
+                            {{--                            <h3 class="resume-title">Sumary</h3>--}}
+                            {{--                            <div class="resume-item pb-0">--}}
+                            {{--                                <h4>Mahmoud Al-Trify</h4>--}}
+                            {{--                                <p><em>Innovative and deadline-driven software engineer with 1+ years of experience,--}}
+                            {{--                                        and developing products from initial--}}
+                            {{--                                        concept--}}
+                            {{--                                        to final, polished deliverable.</em></p>--}}
+                            {{--                                <ul>--}}
+                            {{--                                    <li>Amman, Jordan</li>--}}
+                            {{--                                    <li>(+962) 79 048 7428</li>--}}
+                            {{--                                    <li>mahmoud.altrify@gmail.com</li>--}}
+                            {{--                                </ul>--}}
+                            {{--                            </div>--}}
 
                             <h3 class="resume-title">Education</h3>
                             <div class="resume-item">

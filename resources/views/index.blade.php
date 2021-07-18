@@ -3,8 +3,8 @@
     <!-- ======= Hero Section ======= -->
     <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
         <div class="hero-container" data-aos="fade-in">
-            <h1>Mahmoud Al-Trify</h1>
-            <p>I'm <span class="typed" data-typed-items="Full-Stack Developer, Freelancer"></span></p>
+            <h1>Mahmoud H. Al-Trify</h1>
+            <p>I'm <span class="typed" data-typed-items="Full-Stack Developer, Back-End Developer"></span></p>
         </div>
     </section><!-- End Hero -->
 
@@ -20,7 +20,7 @@
 
                 <div class="row">
                     <div class="col-lg-4" data-aos="fade-right">
-                        <img src="iPortfolio/assets/img/profile-img.jpg" class="img-fluid" alt="">
+                        <img src="iPortfolio/assets/img/profile-img-1.jpg" class="img-fluid" alt="">
                     </div>
                     <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
                         <h3>Full-Stack Developer.</h3>
@@ -32,8 +32,8 @@
                                 <ul>
                                     <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>22 April 1999</span>
                                     </li>
-                                    <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong>
-                                        <a href="https://www.codexjo.com" target="_blank">WWW.CODEXJO.COM</a>
+                                    <li><i class="bi bi-chevron-right"></i> <strong>Nationality:</strong>
+                                        <a>Jordanian</a>
                                     </li>
                                     <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <a
                                             href="tel:00962790487428">+962 79 048 7428</a></li>

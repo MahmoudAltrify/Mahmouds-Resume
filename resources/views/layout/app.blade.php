@@ -14,9 +14,8 @@
     <link href="iPortfolio/assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
     <!-- Google Fonts -->
-    <link
-        href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
-        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
 
     <!-- Vendor CSS Files -->
     <link href="iPortfolio/assets/vendor/aos/aos.css" rel="stylesheet">
@@ -47,13 +46,12 @@
     <div class="d-flex flex-column">
 
         <div class="profile">
-            <img src="iPortfolio/assets/img/profile-img.jpg" alt="" class="img-fluid rounded-circle">
-            <h1>Mahmoud Al-Trify</h1>
+            <img src="iPortfolio/assets/img/profile-img-1.jpg" alt="" class="img-fluid rounded-circle">
+            <h1>Mahmoud H. Al-Trify</h1>
             <div class="social-links mt-3 text-center">
-                <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-                <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-                <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-                <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+                <a href="https://www.facebook.com/mahmoud.altrify.3" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
+                <a href="https://www.instagram.com/mahmoud.altrify/" target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
+                <a href="https://www.linkedin.com/in/mahmoud-isreawe-al-trify-915030162/" target="_blank" class="linkedin"><i class="bx bxl-linkedin"></i></a>
             </div>
         </div>
 
